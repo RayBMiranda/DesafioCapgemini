@@ -18,7 +18,7 @@ Faça o download ou clone do projeto.
 Abra o cmd (abra o menu iniciar e digite cmd).
 Vá para o diretório aonde foi feito o download / clone (diretóriolocal).
 Executando o comando: cd diretóriolocal\DesafioCapgemini\dist
-Com o Java instalado pode executar o comando: java -jar DesafioCapgemini.jar
+Com o Java instalado pode executar o comando dentro do terminal: java -jar DesafioCapgemini.jar
 
 ## 📦 Desenvolvimento
 
